@@ -1,0 +1,27 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 1081f4b..4e5cb9d 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -13,6 +13,7 @@[m
+     </div>[m
+ [m
+     <div class="main">[m
+[32m+[m[32m    some test text[m[41m[m
+       <div class="container">[m
+         <div class="row">[m
+           <div class="col-md-7">[m
+[36m@@ -35,12 +36,12 @@[m
+                 <input type="email" class="form-control" id="email">[m
+               </div>[m
+               <div class="form-group">[m
+[31m-                <label for="password" class="password-label">Password</label> [m
+[32m+[m[32m                <label for="password" class="password-label">Password</label>[m[41m[m
+                 <p class="password-error"></p>[m
+                 <input type="password" class="form-control" id="password">[m
+               </div>[m
+               <button type="submit" class="btn">Create account</button>[m
+[31m-            </form>        [m
+[32m+[m[32m            </form>[m[41m[m
+           </div>[m
+         </div>[m
+       </div>[m
